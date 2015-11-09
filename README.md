@@ -7,4 +7,4 @@ srt will be rewritten in ISO-8859-1 if needed and all srt tags will be removed.
 To build, launch <code>mvn package appbundle:bundle</code>
 
 #Binary
-[Download DMG](https://github.com/erugeri/SubtitleConverter/blob/master/SubtitleConverter.dmg)
+[Download DMG](https://github.com/erugeri/SubtitleConverter/raw/master/SubtitleConverter.dmg)
